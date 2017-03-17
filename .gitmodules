@@ -1,0 +1,3 @@
+[submodule "GreendaoUpdate"]
+	path = GreendaoUpdate
+	url = git@github.com:SuperZhouyong/GreendaoUpdate.git
